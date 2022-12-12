@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>587850722487-3hvlp92cgsmfkt66437is37c5qk81koa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.587850722487-3hvlp92cgsmfkt66437is37c5qk81koa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>587850722487-p75bpf8s3ni595ic8sfpm66hn8dtt21v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkXfYG6x5DdnlkF8kdOecJyuREKb6V6rE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>587850722487</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nihad.Flash-Chat-iOS13</string>
+	<key>PROJECT_ID</key>
+	<string>medicare-bd06c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>medicare-bd06c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:587850722487:ios:6907f8e2d69079712d7132</string>
+</dict>
+</plist>
